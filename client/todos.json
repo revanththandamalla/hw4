@@ -1,0 +1,26 @@
+[
+  { 
+      "description" : "Get office siupplies",
+      "tags"  : [ "shopping", "chores" ]
+  },
+  { 
+      "description" : "Make New Action Items",
+      "tags"  : [ "writing", "work" ]
+  },
+  {
+      "description" : "Prepration for The finals",
+      "tags"  : [ "work", "teaching" ]
+  },
+  { 
+      "description" : "Answering Queries",
+      "tags"  : [ "work" ]
+  },
+  { 
+      "description" : "Take Tommy for vaccination",
+      "tags"  : [ "chores", "pets" ]
+  },
+  { 
+      "description" : "Write a Novel",
+      "tags"  : [ "writing", "work" ]
+  }
+]
